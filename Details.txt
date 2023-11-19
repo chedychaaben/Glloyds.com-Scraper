@@ -1,0 +1,3 @@
+This the target website :
+https://ldc.lloyds.com/market-directory/results?cobc=&cob=&loc=&ltti=&bro=0&cov=1&man=0&mem=0&omc=0&run=0&name=&c_page=1
+This script will loop through all the pages and grab all the listed informations.
